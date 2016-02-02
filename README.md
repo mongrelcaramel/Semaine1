@@ -18,6 +18,6 @@ Graphiste au sein d'une société de logements sociaux
 *   Photographie
 *   Coder pour le plaisir
 
-##Pourquoi [Simplonline](http://www.simplonline.com) 
+##Pourquoi [Simplonline](http://www.simplonline.co) 
 
 J'ai toujours adoré l'informatique. Et faire parti d'un groupe sera d'autant plus motivant.
